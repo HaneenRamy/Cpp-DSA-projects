@@ -14,7 +14,7 @@ Features:
 - Handle dynamic data using vectors and structs  
 - Input validation and error handling  
 
-[View Project](Hospital=management-system)
+[View Project](Hospital-management-system)
 
 ---
 
