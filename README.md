@@ -14,7 +14,7 @@ Features:
 - Handle dynamic data using vectors and structs  
 - Input validation and error handling  
 
-[View Project](link-to-hospital-project)
+[View Project](Hospital=management-system)
 
 ---
 
@@ -27,7 +27,7 @@ Features:
 - Display user feeds dynamically  
 - Efficient handling of dynamic data  
 
-[View Project](link-to-social-media-project)
+[View Project](Social-Media-simulator)
 
 ---
 
