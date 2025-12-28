@@ -1,4 +1,4 @@
-# Social Media System (C++)
+# Social Media Simulator (C++)
 
 A console-based Social Media System built in C++, designed to simulate basic social media functionalities while demonstrating the use of Data Structures (vectors, structs) for managing dynamic data.
 
